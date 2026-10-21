@@ -1,0 +1,18 @@
+:root {
+  /* color */
+  --color-brand: #041da8;
+  --color-brand-hover: #5b21b6;
+  --color-surface: #ffffff;
+  --color-text: #1a1a1a;
+  --color-border: #d4d4d8;
+
+  /* spacing */
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+
+  /* shape and type */
+  --radius-md: 8px;
+  --font-body: system-ui, sans-serif;
+  --font-size-md: 1rem;
+}
